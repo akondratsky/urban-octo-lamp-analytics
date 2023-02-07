@@ -1,6 +1,7 @@
 {
   "name": "urban-octo-lamp-analytics",
   "version": "0.1.0",
+  "homepage": "https://akondratsky.github.io/urban-octo-lamp-analytics/",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",

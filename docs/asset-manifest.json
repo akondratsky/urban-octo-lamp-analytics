@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/urban-octo-lamp-analytics/static/css/main.073c9b0a.css",
-    "main.js": "/urban-octo-lamp-analytics/static/js/main.0c8d8465.js",
+    "main.js": "/urban-octo-lamp-analytics/static/js/main.cc32c54f.js",
     "static/js/787.8531fc5c.chunk.js": "/urban-octo-lamp-analytics/static/js/787.8531fc5c.chunk.js",
     "static/media/logo.svg": "/urban-octo-lamp-analytics/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/urban-octo-lamp-analytics/index.html",
     "main.073c9b0a.css.map": "/urban-octo-lamp-analytics/static/css/main.073c9b0a.css.map",
-    "main.0c8d8465.js.map": "/urban-octo-lamp-analytics/static/js/main.0c8d8465.js.map",
+    "main.cc32c54f.js.map": "/urban-octo-lamp-analytics/static/js/main.cc32c54f.js.map",
     "787.8531fc5c.chunk.js.map": "/urban-octo-lamp-analytics/static/js/787.8531fc5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0c8d8465.js"
+    "static/js/main.cc32c54f.js"
   ]
 }
